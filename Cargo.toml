@@ -1,0 +1,10 @@
+[package]
+name = "push_or_not"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+repository = "https://github.com/Joliwood/push_or_not"
+description = "A library that improve the workflow by forcing commands to push to git"
+
+[dependencies]
+toml = "0.8.19"
